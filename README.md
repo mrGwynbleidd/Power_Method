@@ -285,4 +285,3 @@ GitHub Repository: `mrGwynbleidd/Power_Method`
 ## License
 
 This project is for educational purposes.
-You may add a license file if you want to make the project open-source.
